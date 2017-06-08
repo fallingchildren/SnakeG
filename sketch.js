@@ -8,7 +8,7 @@ var finalScore = 0;
 
 
 function setup() {
-  createCanvas(1000,600);
+  createCanvas(1300,750);
   console.log("hello");
   s = new Snake();
   alive = true;
